@@ -1,3 +1,12 @@
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 不知不觉，从事推荐系统相关工作已近两年，这两年自己踩坑，看人踩坑已然不少。记得一位资深从业者说“现在看起来，推荐系统就是个坑啊！”，心有戚戚的同时又不禁思索，到底坑在哪？
 
 第一坑：高估系统对用户需求的捕捉能力；
